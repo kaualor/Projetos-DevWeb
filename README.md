@@ -37,3 +37,4 @@ Este repositório contém os projetos que estou realizando como parte de um curs
 ##Como Visualizar
 
 Para visualizar os projetos, você pode clonar o repositório e abrir os arquivos `.html` e `.css` no navegador.
+**Nota:** Para uma melhor experiência, é recomendável baixar também as imagens utilizadas nos projetos, garantindo que todos os elementos visuais sejam exibidos corretamente.
