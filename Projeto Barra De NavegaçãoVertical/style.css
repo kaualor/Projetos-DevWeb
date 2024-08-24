@@ -1,0 +1,57 @@
+#cabecalho{
+    background-color: yellow;
+    border: 5px solid orange;
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(255, 204, 110);
+}
+
+ul{
+    list-style-type: none;
+    float: left;
+    margin: 20px;
+}
+
+
+ul a {
+    border: 1px solid red;
+    display: block;
+    width: 200px;
+    height: 40px;
+    background: url(imagens/menu.png);
+    color: #000;
+    text-decoration: none;
+    text-indent: 50px;
+    line-height: 40px;
+}
+
+a:hover{
+    color: #FFF;
+    background-position: right;
+}
+
+#menu-noticias{
+    border: solid red;
+    float: right;
+    width: 400px;
+    height: 300px;
+    padding: 0px;
+    margin-left: 20px;
+}
+
+#menu-noticias h2{
+    background-color: red; 
+    padding: 0px; 
+    margin: 0px;
+    color: white; 
+    text-align: center;
+}
+
+#menu-noticias p{
+    padding: 10px;
+    text-align: justify;
+}
