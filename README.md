@@ -33,8 +33,10 @@ Este repositório contém os projetos que estou realizando como parte de um curs
 8. **Projeto 8: ProjetoParallax**
    - Descrição: Aprendi a utilizar o efeito parallax em sites.
    - Tecnologia: HTML5 e CSS3.
-     
-##Como Visualizar
+
+9. **Projeto 9: Projeto Museu Nacional**
+    - Descrição: Site realizando com o aprendizando da semântica html, e além disso, foi utilizado normalize css para dispositivos mais antigos conseguirem ver o site de forma correta.
+    - Tecnologia: HTML5 e CSS3
 
 Para visualizar os projetos, você pode clonar o repositório e abrir os arquivos `.html` e `.css` no navegador.
 
