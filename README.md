@@ -1,4 +1,4 @@
-# Projetos de Desenvolvimento Web
+# Projetos do curso de Desenvolvimento Web
 Este repositório contém os projetos que estou realizando como parte de um curso de desenvolvimento web.
 ## Projetos
 
